@@ -1,4 +1,4 @@
-# Mintlify Starter Kit
+# Mintlify Starter Kit - I have mograted this to https://github.com/HelloSling/docs
 
 Use the starter kit to get your docs deployed and ready to customize.
 
